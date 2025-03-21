@@ -11,3 +11,6 @@ Senior software engineer with over 8+ years of experience in designing, developi
 - Github Link: https://github.com/ecedreamer
 - Youtube Channel: https://www.youtube.com/@sangitniroula/videos
 - Linkedin Profile: https://linkedin.com/in/dipak-niroula-90b11610b/
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecedreamer&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
