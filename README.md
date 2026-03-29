@@ -1,4 +1,12 @@
-Senior software engineer with over 8+ years of experience in designing, developing, and scaling Software. Expertise in Python, Rust, Kafka, PostgreSQL, etc with a focus on building secure, high-performance backend systems. Experience in completing complex projects from concept to deployment, leading cross-functional teams, mentoring junior engineers, and driving innovation through modern DevOps practices.
+Senior software engineer with over 8+ years of experience in designing, developing, Leading, & scaling Software Systems.
+
+### Skills
+#### - Programming Language: Python, Rust, Java, JavaScript | quick learner
+#### - Software Architecture Design, Distributed System Design & Development, SaaS product Design
+#### - Core System, Data Pipeline, Processing, Search, & Analytics Engine
+#### - Django, FastAPI, Starlette, Axum, NodeJS, ScikitLearn
+#### - REST API, GraphQL, Kafka, ZeroMQ, Redis, Lucene
+#### - Machine Learning, Artificial Intelligence
 
 #### Contact Information
 - Full Name: Dipak Niroula
@@ -10,7 +18,7 @@ Senior software engineer with over 8+ years of experience in designing, developi
 - Personal Website: https://dipakniroula.com.np
 - Github Link: https://github.com/ecedreamer
 - Youtube Channel: https://www.youtube.com/@sangitniroula/videos
-- Linkedin Profile: https://linkedin.com/in/dipak-niroula-90b11610b/
+- LinkedIn Profile: https://linkedin.com/in/dipak-niroula-90b11610b/
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecedreamer&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
