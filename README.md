@@ -6,7 +6,7 @@ Seasoned Software Engineer with over 10 years of experience in designing, develo
 #### - Core System, Data Pipeline, Processing, Search, & Analytics Engine
 #### - Django, FastAPI, Starlette, Axum, NodeJS, ScikitLearn
 #### - REST API, GraphQL, Kafka, ZeroMQ, Redis, Lucene
-#### - Machine Learning, Artificial Intelligence
+#### - Machine Learning, Artificial Intelligence (RAG-based AI implementation, Agentic AI implementation)
 
 ### Contact Information
 - Full Name: Dipak Niroula
